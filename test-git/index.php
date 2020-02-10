@@ -19,6 +19,9 @@ class IndexController extends Controller
         //d
         //e
         //f
+        //g
+        //e
+        //h
         return $this->render('index');
     }
 }
